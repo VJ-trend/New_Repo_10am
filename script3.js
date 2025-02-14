@@ -1,4 +1,4 @@
-console.log("world"); 
+console.log("sun")
 
 console.log("new world")
 
